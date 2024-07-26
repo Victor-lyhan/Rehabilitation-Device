@@ -10,7 +10,7 @@
     3. Solidworks, Fusion360, Matlab
 
 ## Science Fair Project
-* [Badger State Science And Engineering Fair](http://bssef.org/)
+* [Badger State Science And Engineering Fair](https://bssef.org/bssef-2024/)
     1. Category Award - Engineering Cateogiry 1st Place
     2. Grand Award - ISEF Finalist
 * Wisconsin/Upper Michigan [JSHS](https://www.uwlax.edu/gel/ypc/jshs/awards/#tm-261402)
