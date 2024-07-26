@@ -5,8 +5,8 @@
 
 #include <GS_SDHelper.h>
 
-#define WIFI_SSID "Victor Han" // "SpectrumSetup-D1 // Victor Han"
-#define WIFI_PASSWORD "victorhan2007" // "formalocean637 //victorhan2007"
+#define WIFI_SSID "Victor Han" 
+#define WIFI_PASSWORD "victorhan2007" 
 
 #define PROJECT_ID "esp32-datalogging-2024"
 
